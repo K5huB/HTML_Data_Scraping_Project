@@ -3,8 +3,8 @@
 
 #  Repositroy should contain Jupyter notebook showing Data Scraping/Analysis questions and answers
 
-#  website:  'https://www.espn.com/nba/team/stats/_/name/bkn/'
-#            'https://www.espn.com/nba/team/stats/_/name/mem/'
-#            'https://www.espn.com/nba/team/stats/_/name/den/'
-#            'https://www.espn.com/nba/team/stats/_/name/bos/'
-#            'https://www.espn.com/nba/team/stats/_/name/gs/'
+#  websites:  'https://www.espn.com/nba/team/stats/_/name/bkn/'
+#             'https://www.espn.com/nba/team/stats/_/name/mem/'
+#             'https://www.espn.com/nba/team/stats/_/name/den/'
+#             'https://www.espn.com/nba/team/stats/_/name/bos/'
+#             'https://www.espn.com/nba/team/stats/_/name/gs/'
